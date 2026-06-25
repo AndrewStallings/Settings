@@ -18,10 +18,6 @@
   "editor.minimap.enabled": false,
   "editor.renderFinalNewline": "dimmed",
   "editor.renderWhitespace": "boundary",
-  "editor.rulers": [
-    80,
-    120
-  ],
   "editor.smoothScrolling": true,
   "editor.stickyScroll.enabled": true,
   "editor.tabCompletion": "on",
